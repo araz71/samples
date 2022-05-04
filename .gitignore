@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.metadata/
+srf04/Debug
+tms1637/Debug
